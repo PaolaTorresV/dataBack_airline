@@ -18,8 +18,8 @@
             "Connecting_flight ":false,
             "Departure_time":"06:50",
             "Arrival_time":"07:55",
-            "Departure_date":"sat, 10 jun",
-            "Arrival_date":"sat, 10 jun",
+            "Departure_date":"2023-06-10",
+            "Arrival_date":"2023-06-10",
             "Domestic_flight":false,
             "International_flight":true
         },
@@ -39,8 +39,8 @@
             "Connecting_flight ":true,
             "Departure_time":"16:30",
             "Arrival_time":"18:51",
-            "Departure_date":"thu, 18 may",
-            "Arrival_date":"fri, 19 may",
+            "Departure_date":"2023-05-18",
+            "Arrival_date":"2023-05-19",
             "Domestic_flight":false,
             "International_flight":true
         },
@@ -60,8 +60,8 @@
             "Connecting_flight ":false,
             "Departure_time":"21:35",
             "Arrival_time":"17:50",
-            "Departure_date":"fri, 14 jun",
-            "Arrival_date":"sa, 15 jun",
+            "Departure_date":"2023-06-14",
+            "Arrival_date":"2023-06-15",
             "Domestic_flight":false,
             "International_flight":true
         },
@@ -81,8 +81,8 @@
             "Connecting_flight ":true,
             "Departure_time":"20:05",
             "Arrival_time":"09:50",
-            "Departure_date":"Thu, 29 jun",
-            "Arrival_date":"Sun, 1 jul",
+            "Departure_date":"2023-06-29",
+            "Arrival_date":"2023-07-01",
             "Domestic_flight":false,
             "International_flight":true
         },
@@ -102,13 +102,34 @@
             "Connecting_flight ":true,
             "Departure_time":"10:55",
             "Arrival_time":"16:23",
-            "Departure_date":"Wed, 20 sep",
-            "Arrival_date":"Thu, 21 sep",
+            "Departure_date":"2023-09-20",
+            "Arrival_date":"2023-09-21",
             "Domestic_flight":false,
             "International_flight":true
         },
         {
             "id":6,
+            "Origin_city":"Piarco",
+            "Origin_country":"Trinidad and Tobago", 
+            "Destination_city":"Callao",
+            "Destination_country":"Perú",
+            "Origin_airport_name":"Piarco International Airport (POS)",
+            "Destination_airport_name":"Jorge Chávez International Airport (LIM)",
+            "Operated_by":"United Airlines",
+            "Airline_logo":"https://w7.pngwing.com/pngs/668/35/png-transparent-logo-brand-united-airlines-product-design-national-nutrition-council-logo-blue-text-logo.png",
+            "Plane": "Boeing 767",
+            "Journey_duration":"21 h 8 min",
+            "Direct_flights":false,
+            "Connecting_flight ":true,
+            "Departure_time":"10:55",
+            "Arrival_time":"16:23",
+            "Departure_date":"2023-10-20",
+            "Arrival_date":"2023-10-21",
+            "Domestic_flight":false,
+            "International_flight":true
+        },
+        {
+            "id":7,
             "Origin_city":"Bogotá",
             "Origin_country":"Colombia", 
             "Destination_city":"Armenia",
@@ -123,13 +144,13 @@
             "Connecting_flight ":false,
             "Departure_time":"06:36",
             "Arrival_time":"07:41",
-            "Departure_date":"Wed, 21 Jun 2023",
-            "Arrival_date":"Wed, 21 Jun 2023",
+            "Departure_date":"2023-06-21",
+            "Arrival_date":"2023-06-21",
             "Domestic_flight":true,
             "International_flight":false
         },
         {
-            "id":7,
+            "id":8,
             "Origin_city":"Cartagena",
             "Origin_country":"Colombia", 
             "Destination_city":"Villavicencio",
@@ -144,13 +165,13 @@
             "Connecting_flight ":true,
             "Departure_time":"21:59",
             "Arrival_time":"06:57",
-            "Departure_date":"Thu, 27 Jul 2023",
-            "Arrival_date":"Fri, 28 Jul 2023",
+            "Departure_date":"2023-07-27",
+            "Arrival_date":"2023-07-28",
             "Domestic_flight":true,
             "International_flight":false
         },
         {
-            "id":8,
+            "id":9,
             "Origin_city":"Pasto",
             "Origin_country":"Colombia", 
             "Destination_city":"Medellin",
@@ -165,13 +186,13 @@
             "Connecting_flight ":false,
             "Departure_time":"09:00",
             "Arrival_time":"10:50",
-            "Departure_date":" Fri, 6 Oct 2023",
-            "Arrival_date":" Fri, 6 Oct 2023",
+            "Departure_date":"2023-10-06",
+            "Arrival_date":"2023-10-06",
             "Domestic_flight":true,
             "International_flight":false
         },
         {
-            "id":8,
+            "id":10,
             "Origin_city":"Quibdo",
             "Origin_country":"Colombia", 
             "Destination_city":"Cali",
@@ -186,13 +207,13 @@
             "Connecting_flight ":false,
             "Departure_time":"12:40",
             "Arrival_time":"13:45",
-            "Departure_date":"Sun, 20 May",
-            "Arrival_date":"Sun, 20 May",
+            "Departure_date":"2023-05-20",
+            "Arrival_date":"2023-05-20",
             "Domestic_flight":true,
             "International_flight":false
         },
         {
-            "id":9,
+            "id":11,
             "Origin_city":"Cucuta",
             "Origin_country":"Colombia", 
             "Destination_city":"Bogotá",
@@ -207,13 +228,13 @@
             "Connecting_flight ":false,
             "Departure_time":"08:08",
             "Arrival_time":"09:23",
-            "Departure_date":"Fri, 21 Jul",
-            "Arrival_date":"Fri, 21 Jul",
+            "Departure_date":"2023-07-21",
+            "Arrival_date":"2023-07-21",
             "Domestic_flight":true,
             "International_flight":false
         },
         {
-            "id":10,
+            "id":12,
             "Origin_city":"Barrancabermeja",
             "Origin_country":"Colombia", 
             "Destination_city":"Santa Marta",
@@ -228,20 +249,171 @@
             "Connecting_flight ":true,
             "Departure_time":"07:46",
             "Arrival_time":"12:15",
-            "Departure_date":"We, 25 Nov",
-            "Arrival_date":"We, 25 Nov",
+            "Departure_date":"2023-11-25",
+            "Arrival_date":"2023-11-25",
             "Domestic_flight":true,
             "International_flight":false
-        }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+        },
+        {
+            "id":13,
+            "Origin_city":"Santa Marta",
+            "Origin_country":"Colombia", 
+            "Destination_city":"Barrancabermeja",
+            "Destination_country":"Colombia",
+            "Origin_airport_name":"Simón Bolívar International Airport (SRM)",
+            "Destination_airport_name":"Yariguíes Airport (EJA)",
+            "Operated_by":"Avianca Express",
+            "Airline_logo":"https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
+            "Plane": "Boeing 767",
+            "Journey_duration":" 4h 19 min",
+            "Direct_flights":false,
+            "Connecting_flight ":true,
+            "Departure_time":"07:46",
+            "Arrival_time":"12:15",
+            "Departure_date":"2023-12-25",
+            "Arrival_date":"2023-12-25",
+            "Domestic_flight":true,
+            "International_flight":false
+        }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
     ],
+
     "countriesInfo":[
         {
             "id":"1",
             "country": "Morocco",
-            "cities":{
-                "Marraketch"
-                "" 
-            }
+            "cities":[
+                {
+                    "id": 1, 
+                    "city":"Marraketch"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+        },
+        {
+            "id":"2",
+            "country": "USA",
+            "cities": [
+                {
+                    "id": 1, 
+                    "city":"Miami"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+            
+
+        },
+        {
+            "id":"3",
+            "country":"London",
+            "cities":[
+                {
+                    "id": 1, 
+                    "city":"Hillingdon"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+            
+
+        },
+        {
+            "id":"4",
+            "country":"Madrid",
+            "cities": [
+                {
+                    "id": 1, 
+                    "city":"Spain"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+           
+        },
+        {
+            "id":"5",
+            "country":"Finland",
+            "cities":[
+                {
+                    "id": 1, 
+                    "city":"Kittilä"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+           
+
+        },
+        {
+            "id":"6",
+            "country":"Malaysia",
+            "cities": [
+                {
+                    "id": 1, 
+                    "city":"Kuala Lumpur"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+            ]
+            
+
+        },
+        {
+            "id":"6",
+            "country":"Trinidad and Tobago",
+            "cities":[
+                {
+                    "id": 1, 
+                    "city":"Piarco"
+                },
+                {
+                    "id": 2, 
+                    "city":"gfdgdfgfhdh"
+                }
+    
+            ]
+            
+        },
+        {
+            "id":"7",
+            "country":"Colombia",
+            "cities":[
+                {
+                    "id": 1, 
+                    "city":"Bogotá"
+                },
+                {
+                    "id": 2, 
+                    "city":"Barrancabermeja"
+                },
+                {
+                    "id": 3, 
+                    "city":"Santa Marta"
+                },
+                {
+                    "id": 4, 
+                    "city":"Cucuta"
+                },
+                {
+                    "id": 4, 
+                    "city":"Cucuta"
+                }
+            ]
+            
+
         }
     ],
 
@@ -249,5 +421,7 @@
 
     "checkIn": [],
     
-    "passengersInfo":[]
+    "passengersInfo":[],
+    
+    "occupiedSeats":[]
 }

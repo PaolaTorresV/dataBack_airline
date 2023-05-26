@@ -1,427 +1,456 @@
-
 {
-    "flightInformation":
-    [
+    "flightInformation": [
         {
-            "id":1,
-            "Origin_city":"Marraketch",
-            "Origin_country":"Morocco", 
-            "Destination_city":"Madrid",
-            "Destination_country":"Spain",
+            "id": 1,
+            "Origin_city": "Marraketch",
+            "Origin_country": "Morocco",
+            "Destination_city": "Madrid",
+            "Destination_country": "Spain",
             "Origin_airport_name": "Marrakech-Menara (RAK)",
             "Destination_airport_name": "Adolfo Suárez Madrid-Barajas (MAD) ",
             "Operated_by": "Ryanair",
-            "Airline_logo":"https://play-lh.googleusercontent.com/UlvFF-Zo2h6_8RdoMh9xWbAcaqSrsIU_yhQPOcH5rbTQ7Av9EvfWFTrAen1EX4X-JxA_",
+            "Airline_logo": "https://play-lh.googleusercontent.com/UlvFF-Zo2h6_8RdoMh9xWbAcaqSrsIU_yhQPOcH5rbTQ7Av9EvfWFTrAen1EX4X-JxA_",
             "Plane": "Boeing 737",
-            "Journey_duration":"2 h 5 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"06:50",
-            "Arrival_time":"07:55",
-            "Departure_date":"2023-06-10",
-            "Arrival_date":"2023-06-10",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "2 h 5 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "06:50",
+            "Arrival_time": "07:55",
+            "Departure_date": "2023-06-10",
+            "Arrival_date": "2023-06-10",
+            "Domestic_flight": false,
+            "International_flight": true,
+            "price": 1146500
         },
         {
-            "id":2,
-            "Origin_city":"Miami",
-            "Origin_country":"USA", 
-            "Destination_city":"Kittilä",
-            "Destination_country":"Finland",
-            "Origin_airport_name":"Miami International Airpor (MIA)",
-            "Destination_airport_name":"Kittilä Airpor (KTT)",
-            "Operated_by":"Finnair",
-            "Airline_logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Finnair_Logo.svg/2560px-Finnair_Logo.svg.png",
+            "id": 2,
+            "Origin_city": "Miami",
+            "Origin_country": "USA",
+            "Destination_city": "Kittilä",
+            "Destination_country": "Finland",
+            "Origin_airport_name": "Miami International Airpor (MIA)",
+            "Destination_airport_name": "Kittilä Airpor (KTT)",
+            "Operated_by": "Finnair",
+            "Airline_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Finnair_Logo.svg/2560px-Finnair_Logo.svg.png",
             "Plane": "Boeing 737",
-            "Journey_duration":"18 h 30 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"16:30",
-            "Arrival_time":"18:51",
-            "Departure_date":"2023-05-18",
-            "Arrival_date":"2023-05-19",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "18 h 30 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "16:30",
+            "Arrival_time": "18:51",
+            "Departure_date": "2023-05-18",
+            "Arrival_date": "2023-05-19",
+            "Domestic_flight": false,
+            "International_flight": true,
+            "price": 14569921
         },
         {
-            "id":3,
-            "Origin_city":"Hillingdon",
-            "Origin_country":"London", 
-            "Destination_city":"Kuala Lumpur",
-            "Destination_country":"Malaysia",
-            "Origin_airport_name":"London-Heathrow Airport (LHR)",
-            "Destination_airport_name":"Kuala Lumpur International Airport (KUL)",
+            "id": 3,
+            "Origin_city": "Hillingdon",
+            "Origin_country": "London",
+            "Destination_city": "Kuala Lumpur",
+            "Destination_country": "Malaysia",
+            "Origin_airport_name": "London-Heathrow Airport (LHR)",
+            "Destination_airport_name": "Kuala Lumpur International Airport (KUL)",
             "Operated_by": "Malaysia Airlines",
-            "Airline_logo":"https://1000logos.net/wp-content/uploads/2020/04/Malaysia-Airlines-Logo.png",
+            "Airline_logo": "https://1000logos.net/wp-content/uploads/2020/04/Malaysia-Airlines-Logo.png",
             "Plane": "Airbus A350",
-            "Journey_duration":"13 h 15 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"21:35",
-            "Arrival_time":"17:50",
-            "Departure_date":"2023-06-14",
-            "Arrival_date":"2023-06-15",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "13 h 15 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "21:35",
+            "Arrival_time": "17:50",
+            "Departure_date": "2023-06-14",
+            "Arrival_date": "2023-06-15",
+            "Domestic_flight": false,
+            "International_flight": true,
+            "price": 14569921
         },
         {
-            "id":4,
-            "Origin_city":"Tocumen",
-            "Origin_country":"Panama City", 
-            "Destination_city":"Johannesburgo",
-            "Destination_country":"South Africa",
-            "Origin_airport_name":" Tocumen Iinternational Airport(PTY)",
-            "Destination_airport_name":"Johannesburgo-Oliver Reginald Tambo International Airport (JNB)",
+            "id": 4,
+            "Origin_city": "Tocumen",
+            "Origin_country": "Panama City",
+            "Destination_city": "Johannesburgo",
+            "Destination_country": "South Africa",
+            "Origin_airport_name": " Tocumen Iinternational Airport(PTY)",
+            "Destination_airport_name": "Johannesburgo-Oliver Reginald Tambo International Airport (JNB)",
             "Operated_by": "Turkish Airlines",
-            "Airline_logo":"https://1000marcas.net/wp-content/uploads/2020/03/Turkish-Airlines-emblem.png",
+            "Airline_logo": "https://1000marcas.net/wp-content/uploads/2020/03/Turkish-Airlines-emblem.png",
             "Plane": "Boeing 777",
-            "Journey_duration":"32 h 22 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"20:05",
-            "Arrival_time":"09:50",
-            "Departure_date":"2023-06-29",
-            "Arrival_date":"2023-07-01",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "32 h 22 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "20:05",
+            "Arrival_time": "09:50",
+            "Departure_date": "2023-06-29",
+            "Arrival_date": "2023-07-01",
+            "Domestic_flight": false,
+            "International_flight": true,
+            "price": 8068230
         },
         {
-            "id":5,
-            "Origin_city":"Callao",
-            "Origin_country":"Perú", 
-            "Destination_city":"Piarco",
-            "Destination_country":"Trinidad and Tobago",
-            "Origin_airport_name":"Jorge Chávez International Airport (LIM)",
-            "Destination_airport_name":"Piarco International Airport (POS)",
-            "Operated_by":"United Airlines",
-            "Airline_logo":"https://w7.pngwing.com/pngs/668/35/png-transparent-logo-brand-united-airlines-product-design-national-nutrition-council-logo-blue-text-logo.png",
+            "id": 7,
+            "Origin_city": "Bogotá",
+            "Origin_country": "Colombia",
+            "Destination_city": "Armenia",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "El Dorado International Airport - Bogotá (BOG)",
+            "Destination_airport_name": "El Edén International Airport (AXM)",
+            "Operated_by": "Wingo",
+            "Airline_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wingo_Logo.jpg",
             "Plane": "Boeing 767",
-            "Journey_duration":"21 h 8 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"10:55",
-            "Arrival_time":"16:23",
-            "Departure_date":"2023-09-20",
-            "Arrival_date":"2023-09-21",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "1h 05 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "06:36",
+            "Arrival_time": "07:41",
+            "Departure_date": "2023-06-21",
+            "Arrival_date": "2023-06-21",
+            "Domestic_flight": true,
+            "International_flight": false,
+            "price": 281700
         },
         {
-            "id":6,
-            "Origin_city":"Piarco",
-            "Origin_country":"Trinidad and Tobago", 
-            "Destination_city":"Callao",
-            "Destination_country":"Perú",
-            "Origin_airport_name":"Piarco International Airport (POS)",
-            "Destination_airport_name":"Jorge Chávez International Airport (LIM)",
-            "Operated_by":"United Airlines",
-            "Airline_logo":"https://w7.pngwing.com/pngs/668/35/png-transparent-logo-brand-united-airlines-product-design-national-nutrition-council-logo-blue-text-logo.png",
+            "id": 8,
+            "Origin_city": "Cartagena",
+            "Origin_country": "Colombia",
+            "Destination_city": "Villavicencio",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "Cartagena de Indias Airport (CTG)",
+            "Destination_airport_name": " Vanguardia- Villavicencio Airport (VVC)",
+            "Operated_by": "Avianca Express",
+            "Airline_logo": "https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
             "Plane": "Boeing 767",
-            "Journey_duration":"21 h 8 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"10:55",
-            "Arrival_time":"16:23",
-            "Departure_date":"2023-10-20",
-            "Arrival_date":"2023-10-21",
-            "Domestic_flight":false,
-            "International_flight":true
+            "Journey_duration": "8h 58 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "21:59",
+            "Arrival_time": "06:57",
+            "Departure_date": "2023-07-27",
+            "Arrival_date": "2023-07-28",
+            "Domestic_flight": true,
+            "International_flight": false,
+            "price": 281700
         },
         {
-            "id":7,
-            "Origin_city":"Bogotá",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Armenia",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"El Dorado International Airport - Bogotá (BOG)",
-            "Destination_airport_name":"El Edén International Airport (AXM)",
-            "Operated_by":"Wingo",
-            "Airline_logo":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Wingo_Logo.jpg",
+            "id": 9,
+            "Origin_city": "Pasto",
+            "Origin_country": "Colombia",
+            "Destination_city": "Medellin",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "Antonio Nariño Airport (PSO)",
+            "Destination_airport_name": "Enrique Olaya Herrera Airport (EOH)",
+            "Operated_by": "EasyFly",
+            "Airline_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/EasyFly.svg/2560px-EasyFly.svg.png",
             "Plane": "Boeing 767",
-            "Journey_duration":"1h 05 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"06:36",
-            "Arrival_time":"07:41",
-            "Departure_date":"2023-06-21",
-            "Arrival_date":"2023-06-21",
-            "Domestic_flight":true,
-            "International_flight":false
+            "Journey_duration": " 1h 50 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "09:00",
+            "Arrival_time": "10:50",
+            "Departure_date": "2023-10-06",
+            "Arrival_date": "2023-10-06",
+            "Domestic_flight": true,
+            "International_flight": false
         },
         {
-            "id":8,
-            "Origin_city":"Cartagena",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Villavicencio",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"Cartagena de Indias Airport (CTG)",
-            "Destination_airport_name":" Vanguardia- Villavicencio Airport (VVC)",
-            "Operated_by":"Avianca Express",
-            "Airline_logo":"https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
+            "id": 10,
+            "Origin_city": "Quibdo",
+            "Origin_country": "Colombia",
+            "Destination_city": "Cali",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "El Caraño Airport (UIB)",
+            "Destination_airport_name": "Alfonso Bonilla Aragon International Airport (CLO)",
+            "Operated_by": "EasyFly",
+            "Airline_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/EasyFly.svg/2560px-EasyFly.svg.png",
             "Plane": "Boeing 767",
-            "Journey_duration":"8h 58 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"21:59",
-            "Arrival_time":"06:57",
-            "Departure_date":"2023-07-27",
-            "Arrival_date":"2023-07-28",
-            "Domestic_flight":true,
-            "International_flight":false
+            "Journey_duration": " 1h 05 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "12:40",
+            "Arrival_time": "13:45",
+            "Departure_date": "2023-05-20",
+            "Arrival_date": "2023-05-20",
+            "Domestic_flight": true,
+            "International_flight": false
         },
         {
-            "id":9,
-            "Origin_city":"Pasto",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Medellin",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"Antonio Nariño Airport (PSO)",
-            "Destination_airport_name":"Enrique Olaya Herrera Airport (EOH)",
-            "Operated_by":"EasyFly",
-            "Airline_logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/EasyFly.svg/2560px-EasyFly.svg.png",
+            "id": 11,
+            "Origin_city": "Cucuta",
+            "Origin_country": "Colombia",
+            "Destination_city": "Bogotá",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "Camilo Daza International Airport (CUC)",
+            "Destination_airport_name": "El Dorado International Airport - Bogotá (BOG)",
+            "Operated_by": "Avianca Express",
+            "Airline_logo": "https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
             "Plane": "Boeing 767",
-            "Journey_duration":" 1h 50 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"09:00",
-            "Arrival_time":"10:50",
-            "Departure_date":"2023-10-06",
-            "Arrival_date":"2023-10-06",
-            "Domestic_flight":true,
-            "International_flight":false
-        },
-        {
-            "id":10,
-            "Origin_city":"Quibdo",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Cali",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"El Caraño Airport (UIB)",
-            "Destination_airport_name":"Alfonso Bonilla Aragon International Airport (CLO)",
-            "Operated_by":"EasyFly",
-            "Airline_logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/EasyFly.svg/2560px-EasyFly.svg.png",
-            "Plane": "Boeing 767",
-            "Journey_duration":" 1h 05 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"12:40",
-            "Arrival_time":"13:45",
-            "Departure_date":"2023-05-20",
-            "Arrival_date":"2023-05-20",
-            "Domestic_flight":true,
-            "International_flight":false
-        },
-        {
-            "id":11,
-            "Origin_city":"Cucuta",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Bogotá",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"Camilo Daza International Airport (CUC)",
-            "Destination_airport_name":"El Dorado International Airport - Bogotá (BOG)",
-            "Operated_by":"Avianca Express",
-            "Airline_logo":"https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
-            "Plane": "Boeing 767",
-            "Journey_duration":" 1h 15 min",
-            "Direct_flights":true,
-            "Connecting_flight ":false,
-            "Departure_time":"08:08",
-            "Arrival_time":"09:23",
-            "Departure_date":"2023-07-21",
-            "Arrival_date":"2023-07-21",
-            "Domestic_flight":true,
-            "International_flight":false
-        },
-        {
-            "id":12,
-            "Origin_city":"Barrancabermeja",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Santa Marta",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"Yariguíes Airport (EJA)",
-            "Destination_airport_name":"Simón Bolívar International Airport (SRM)",
-            "Operated_by":"Avianca Express",
-            "Airline_logo":"https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
-            "Plane": "Boeing 767",
-            "Journey_duration":" 4h 19 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"07:46",
-            "Arrival_time":"12:15",
-            "Departure_date":"2023-11-25",
-            "Arrival_date":"2023-11-25",
-            "Domestic_flight":true,
-            "International_flight":false
-        },
-        {
-            "id":13,
-            "Origin_city":"Santa Marta",
-            "Origin_country":"Colombia", 
-            "Destination_city":"Barrancabermeja",
-            "Destination_country":"Colombia",
-            "Origin_airport_name":"Simón Bolívar International Airport (SRM)",
-            "Destination_airport_name":"Yariguíes Airport (EJA)",
-            "Operated_by":"Avianca Express",
-            "Airline_logo":"https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
-            "Plane": "Boeing 767",
-            "Journey_duration":" 4h 19 min",
-            "Direct_flights":false,
-            "Connecting_flight ":true,
-            "Departure_time":"07:46",
-            "Arrival_time":"12:15",
-            "Departure_date":"2023-12-25",
-            "Arrival_date":"2023-12-25",
-            "Domestic_flight":true,
-            "International_flight":false
-        }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+            "Journey_duration": " 1h 15 min",
+            "Direct_flights": true,
+            "Connecting_flight ": false,
+            "Departure_time": "08:08",
+            "Arrival_time": "09:23",
+            "Departure_date": "2023-07-21",
+            "Arrival_date": "2023-07-21",
+            "Domestic_flight": true,
+            "International_flight": false
+        }
     ],
-
-    "countriesInfo":[
+    "roundFlightInformation": [
         {
-            "id":"1",
+            "id": 12,
+            "Origin_city": "Barrancabermeja",
+            "Origin_country": "Colombia",
+            "Destination_city": "Santa Marta",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "Yariguíes Airport (EJA)",
+            "Destination_airport_name": "Simón Bolívar International Airport (SRM)",
+            "Operated_by": "Avianca Express",
+            "Airline_logo": "https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
+            "Plane": "Boeing 767",
+            "Journey_duration": " 4h 19 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "07:46",
+            "Arrival_time": "12:15",
+            "Departure_date": "2023-11-25",
+            "Arrival_date": "2023-11-25",
+            "Domestic_flight": true,
+            "International_flight": false
+        },
+        {
+            "id": 13,
+            "Origin_city": "Santa Marta",
+            "Origin_country": "Colombia",
+            "Destination_city": "Barrancabermeja",
+            "Destination_country": "Colombia",
+            "Origin_airport_name": "Simón Bolívar International Airport (SRM)",
+            "Destination_airport_name": "Yariguíes Airport (EJA)",
+            "Operated_by": "Avianca Express",
+            "Airline_logo": "https://w7.pngwing.com/pngs/48/878/png-transparent-orlando-international-airport-logan-international-airport-direct-flight-avianca-others-text-logo-flight-thumbnail.png",
+            "Plane": "Boeing 767",
+            "Journey_duration": " 4h 19 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "07:46",
+            "Arrival_time": "12:15",
+            "Departure_date": "2023-12-25",
+            "Arrival_date": "2023-12-25",
+            "Domestic_flight": true,
+            "International_flight": false
+        },
+        {
+            "id": 5,
+            "Origin_city": "Callao",
+            "Origin_country": "Perú",
+            "Destination_city": "Piarco",
+            "Destination_country": "Trinidad and Tobago",
+            "Origin_airport_name": "Jorge Chávez International Airport (LIM)",
+            "Destination_airport_name": "Piarco International Airport (POS)",
+            "Operated_by": "United Airlines",
+            "Airline_logo": "https://w7.pngwing.com/pngs/668/35/png-transparent-logo-brand-united-airlines-product-design-national-nutrition-council-logo-blue-text-logo.png",
+            "Plane": "Boeing 767",
+            "Journey_duration": "21 h 8 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "10:55",
+            "Arrival_time": "16:23",
+            "Departure_date": "2023-09-20",
+            "Arrival_date": "2023-09-21",
+            "Domestic_flight": false,
+            "International_flight": true
+        },
+        {
+            "id": 6,
+            "Origin_city": "Piarco",
+            "Origin_country": "Trinidad and Tobago",
+            "Destination_city": "Callao",
+            "Destination_country": "Perú",
+            "Origin_airport_name": "Piarco International Airport (POS)",
+            "Destination_airport_name": "Jorge Chávez International Airport (LIM)",
+            "Operated_by": "United Airlines",
+            "Airline_logo": "https://w7.pngwing.com/pngs/668/35/png-transparent-logo-brand-united-airlines-product-design-national-nutrition-council-logo-blue-text-logo.png",
+            "Plane": "Boeing 767",
+            "Journey_duration": "21 h 8 min",
+            "Direct_flights": false,
+            "Connecting_flight ": true,
+            "Departure_time": "10:55",
+            "Arrival_time": "16:23",
+            "Departure_date": "2023-10-20",
+            "Arrival_date": "2023-10-21",
+            "Domestic_flight": false,
+            "International_flight": true
+        }
+    ],
+    "countriesInfo": [
+        {
+            "id": "1",
             "country": "Morocco",
-            "cities":[
+            "cities": [
                 {
-                    "id": 1, 
-                    "city":"Marraketch"
+                    "id": 11,
+                    "city": "Marraketch"
                 },
                 {
-                    "id": 2, 
-                    "city":"Casa Blanca"
+                    "id": 12,
+                    "city": "Casa Blanca"
                 }
             ]
         },
         {
-            "id":"2",
+            "id": "2",
             "country": "USA",
             "cities": [
                 {
-                    "id": 1, 
-                    "city":"Miami"
+                    "id": 21,
+                    "city": "Miami"
                 },
                 {
-                    "id": 2, 
-                    "city":"New York"
+                    "id": 22,
+                    "city": "New York"
                 }
             ]
-            
-
         },
         {
-            "id":"3",
-            "country":"London",
-            "cities":[
-                {
-                    "id": 1, 
-                    "city":"Hillingdon"
-                },
-                {
-                    "id": 2, 
-                    "city":"Abbey Wood"
-                }
-            ]
-            
-
-        },
-        {
-            "id":"4",
-            "country":"Spain",
+            "id": "3",
+            "country": "London",
             "cities": [
                 {
-                    "id": 1, 
-                    "city":"Madrid"
+                    "id": 31,
+                    "city": "Hillingdon"
                 },
                 {
-                    "id": 2, 
-                    "city":"Almería"
+                    "id": 32,
+                    "city": "Abbey Wood"
                 }
             ]
-           
         },
         {
-            "id":"5",
-            "country":"Finland",
-            "cities":[
-                {
-                    "id": 1, 
-                    "city":"Kittilä"
-                },
-                {
-                    "id": 2, 
-                    "city":"Akaa"
-                }
-            ]
-           
-
-        },
-        {
-            "id":"6",
-            "country":"Malaysia",
+            "id": "4",
+            "country": "Spain",
             "cities": [
                 {
-                    "id": 1, 
-                    "city":"Kuala Lumpur"
+                    "id": 41,
+                    "city": "Madrid"
                 },
                 {
-                    "id": 2, 
-                    "city":"George Town"
+                    "id": 42,
+                    "city": "Almería"
                 }
             ]
-            
-
         },
         {
-            "id":"6",
-            "country":"Trinidad and Tobago",
-            "cities":[
+            "id": "5",
+            "country": "Finland",
+            "cities": [
                 {
-                    "id": 1, 
-                    "city":"Piarco"
+                    "id": 51,
+                    "city": "Kittilä"
                 },
                 {
-                    "id": 2, 
-                    "city":"Chaguanas"
+                    "id": 22,
+                    "city": "Akaa"
                 }
-    
             ]
-            
         },
         {
-            "id":"7",
-            "country":"Colombia",
-            "cities":[
+            "id": "6",
+            "country": "Malaysia",
+            "cities": [
                 {
-                    "id": 1, 
-                    "city":"Bogotá"
+                    "id": 1,
+                    "city": "Kuala Lumpur"
                 },
                 {
-                    "id": 2, 
-                    "city":"Barrancabermeja"
-                },
-                {
-                    "id": 3, 
-                    "city":"Santa Marta"
-                },
-                {
-                    "id": 4, 
-                    "city":"Cucuta"
-                },
-                {
-                    "id": 4, 
-                    "city":"Cucuta"
+                    "id": 2,
+                    "city": "George Town"
                 }
             ]
-            
-
+        },
+        {
+            "id": "6",
+            "country": "Trinidad and Tobago",
+            "cities": [
+                {
+                    "id": 1,
+                    "city": "Piarco"
+                },
+                {
+                    "id": 2,
+                    "city": "Chaguanas"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "country": "Colombia",
+            "cities": [
+                {
+                    "id": 1,
+                    "city": "Bogotá"
+                },
+                {
+                    "id": 2,
+                    "city": "Barrancabermeja"
+                },
+                {
+                    "id": 3,
+                    "city": "Santa Marta"
+                },
+                {
+                    "id": 4,
+                    "city": "Cucuta"
+                },
+                {
+                    "id": 4,
+                    "city": "Cucuta"
+                }
+            ]
         }
     ],
-
-    "purchase":[],
-
+    "purchase": [],
     "checkIn": [],
-    
-    "passengersInfo":[],
-    
-    "occupiedSeats":[]
+    "passengersInfo": [],
+    "occupiedSeats": [
+        {
+            "id": "A1",
+            "ocupaide": "true"
+        },
+        {
+            "id": "A2",
+            "ocupaide": "true"
+        },
+        {
+            "id": "A3",
+            "ocupaide": "true"
+        },
+        {
+            "id": "B1",
+            "ocupaide": "false"
+        },
+        {
+            "id": "B2",
+            "ocupaide": "false"
+        },
+        {
+            "id": "B3",
+            "ocupaide": "false"
+        }
+
+    ],
+    "endpointExample": [
+        {
+            "id": 0,
+            "Departure_date": "2023-02-15",
+            "Origin_city": "Armenia",
+            "Departure_time": "06:25",
+            "Arrival_time": "07:30",
+            "Destination_city": "Bogotá",
+            "Price": "$600.000",
+            "Tarifa_Base": "$$$$",
+            "Descuento_Pormocional": "$$$$$$",
+            "Tarifa_Base_con_Dscto": "$$$",
+            "iva": "19%"
+        }
+    ]
 }

@@ -151,7 +151,8 @@
             "Departure_date": "2023-10-06",
             "Arrival_date": "2023-10-06",
             "Domestic_flight": true,
-            "International_flight": false
+            "International_flight": false,
+            "price": 596000
         },
         {
             "id": 10,
@@ -172,7 +173,8 @@
             "Departure_date": "2023-05-20",
             "Arrival_date": "2023-05-20",
             "Domestic_flight": true,
-            "International_flight": false
+            "International_flight": false,
+            "price": 676000
         },
         {
             "id": 11,
@@ -193,7 +195,8 @@
             "Departure_date": "2023-07-21",
             "Arrival_date": "2023-07-21",
             "Domestic_flight": true,
-            "International_flight": false
+            "International_flight": false,
+            "price": 285000
         }
     ],
     "roundFlightInformation": [
@@ -216,7 +219,8 @@
             "Departure_date": "2023-11-25",
             "Arrival_date": "2023-11-25",
             "Domestic_flight": true,
-            "International_flight": false
+            "International_flight": false,
+            "price": 1406700
         },
         {
             "id": 13,
@@ -237,7 +241,8 @@
             "Departure_date": "2023-12-25",
             "Arrival_date": "2023-12-25",
             "Domestic_flight": true,
-            "International_flight": false
+            "International_flight": false,
+            "price": 1406700
         },
         {
             "id": 5,
@@ -258,7 +263,8 @@
             "Departure_date": "2023-09-20",
             "Arrival_date": "2023-09-21",
             "Domestic_flight": false,
-            "International_flight": true
+            "International_flight": true,
+            "price": 7006084
         },
         {
             "id": 6,
@@ -279,7 +285,8 @@
             "Departure_date": "2023-10-20",
             "Arrival_date": "2023-10-21",
             "Domestic_flight": false,
-            "International_flight": true
+            "International_flight": true,
+            "price": 7006084
         }
     ],
     "countriesInfo": [
@@ -414,27 +421,27 @@
     "occupiedSeats": [
         {
             "id": "A1",
-            "ocupaide": "true"
+            "ocupide": "true"
         },
         {
             "id": "A2",
-            "ocupaide": "true"
+            "ocupide": "true"
         },
         {
             "id": "A3",
-            "ocupaide": "true"
+            "ocupide": "true"
         },
         {
             "id": "B1",
-            "ocupaide": "false"
+            "ocupide": "false"
         },
         {
             "id": "B2",
-            "ocupaide": "false"
+            "ocupide": "false"
         },
         {
             "id": "B3",
-            "ocupaide": "false"
+            "ocupide": "false"
         }
 
     ],

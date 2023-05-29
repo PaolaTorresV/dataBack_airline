@@ -418,32 +418,253 @@
     "purchase": [],
     "checkIn": [],
     "passengersInfo": [],
-    "occupiedSeats": [
+    "seatsABC1": [
         {
-            "id": "A1",
-            "ocupide": "true"
+            "id": "1A",
+            "status": "available"
         },
         {
-            "id": "A2",
-            "ocupide": "true"
+            "id": "1B",
+            "status": "available"
         },
         {
-            "id": "A3",
-            "ocupide": "true"
+            "id": "1C",
+            "status": "available"
         },
         {
-            "id": "B1",
-            "ocupide": "false"
+            "id": "2A",
+            "status": "available"
         },
         {
-            "id": "B2",
-            "ocupide": "false"
+            "id": "2B",
+            "status": "available"
         },
         {
-            "id": "B3",
-            "ocupide": "false"
+            "id": "2C",
+            "status": "available"
+        },
+        {
+            "id": "3A",
+            "status": "available"
+        },
+        {
+            "id": "3B",
+            "status": "available"
+        },
+        {
+            "id": "3C",
+            "status": "available"
+        },
+        {
+            "id": "4A",
+            "status": "available"
+        },
+        {
+            "id": "4B",
+            "status": "available"
+        },
+        {
+            "id": "4C",
+            "status": "available"
+        },
+        {
+            "id": "5A",
+            "status": "available"
+        },
+        {
+            "id": "5B",
+            "status": "available"
+        },
+        {
+            "id": "5C",
+            "status": "available"
         }
-
+    ],
+    "seatsABC2": [
+        {
+            "id": "6A",
+            "status": "available"
+        },
+        {
+            "id": "6B",
+            "status": "available"
+        },
+        {
+            "id": "6C",
+            "status": "available"
+        },
+        {
+            "id": "7A",
+            "status": "available"
+        },
+        {
+            "id": "7B",
+            "status": "available"
+        },
+        {
+            "id": "7C",
+            "status": "available"
+        },
+        {
+            "id": "8A",
+            "status": "available"
+        },
+        {
+            "id": "8B",
+            "status": "available"
+        },
+        {
+            "id": "8C",
+            "status": "available"
+        },
+        {
+            "id": "9A",
+            "status": "available"
+        },
+        {
+            "id": "9B",
+            "status": "available"
+        },
+        {
+            "id": "9C",
+            "status": "available"
+        },
+        {
+            "id": "10A",
+            "status": "available"
+        },
+        {
+            "id": "10B",
+            "status": "available"
+        },
+        {
+            "id": "10C",
+            "status": "available"
+        }
+    ],
+    "seatsDEF1": [
+        {
+            "id": "1D",
+            "status": "available"
+        },
+        {
+            "id": "1E",
+            "status": "available"
+        },
+        {
+            "id": "1F",
+            "status": "available"
+        },
+        {
+            "id": "2D",
+            "status": "available"
+        },
+        {
+            "id": "2E",
+            "status": "available"
+        },
+        {
+            "id": "2F",
+            "status": "available"
+        },
+        {
+            "id": "3D",
+            "status": "available"
+        },
+        {
+            "id": "3E",
+            "status": "available"
+        },
+        {
+            "id": "3F",
+            "status": "available"
+        },
+        {
+            "id": "4D",
+            "status": "available"
+        },
+        {
+            "id": "4E",
+            "status": "available"
+        },
+        {
+            "id": "4F",
+            "status": "available"
+        },
+        {
+            "id": "5D",
+            "status": "available"
+        },
+        {
+            "id": "5E",
+            "status": "available"
+        },
+        {
+            "id": "5F",
+            "status": "available"
+        }
+    ],
+    "seatsDEF2": [
+        {
+            "id": "6D",
+            "status": "available"
+        },
+        {
+            "id": "6E",
+            "status": "available"
+        },
+        {
+            "id": "6F",
+            "status": "available"
+        },
+        {
+            "id": "7D",
+            "status": "available"
+        },
+        {
+            "id": "7E",
+            "status": "available"
+        },
+        {
+            "id": "7F",
+            "status": "available"
+        },
+        {
+            "id": "8D",
+            "status": "available"
+        },
+        {
+            "id": "8E",
+            "status": "available"
+        },
+        {
+            "id": "8F",
+            "status": "available"
+        },
+        {
+            "id": "9D",
+            "status": "available"
+        },
+        {
+            "id": "9E",
+            "status": "available"
+        },
+        {
+            "id": "9F",
+            "status": "available"
+        },
+        {
+            "id": "10D",
+            "status": "available"
+        },
+        {
+            "id": "10E",
+            "status": "available"
+        },
+        {
+            "id": "10F",
+            "status": "available"
+        }
     ],
     "endpointExample": [
         {
